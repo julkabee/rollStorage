@@ -1,0 +1,5 @@
+type_base = "postgresql"
+user_name = "postgres"
+user_password = "vjnz2003"
+base_path = "localhost"
+base_name = "rolls"
